@@ -1,0 +1,15 @@
+body{
+    background: #ccc;
+}
+
+.box-position{
+    background: #666;
+    width: 200px;
+    height: 200px;
+
+    /* O conteúdo seguinte será ignorado: */
+    top: 100px;
+    left: 100px;
+    bottom: 100px;
+    right: 100px;
+}
