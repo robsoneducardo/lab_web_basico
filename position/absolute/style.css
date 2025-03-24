@@ -1,0 +1,22 @@
+body{
+    background: #ccc;
+}
+
+.box-position{
+    background: #666;
+    width: 600px;
+    height: 200px;
+
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    bottom: 100px;
+    right: 100px;
+}
+
+.box-position-relative{
+    background-color: #966;
+    max-width: 800px;
+
+    position: relative;
+}
